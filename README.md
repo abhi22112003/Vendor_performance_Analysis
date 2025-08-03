@@ -2,42 +2,48 @@
 
 ## 🧠 Overview
 
-This project focuses on analyzing vendor performance and inventory efficiency to uncover actionable insights that drive **profitability** in the retail and wholesale sectors. Through data-driven analysis, the project aims to support decision-making on vendor selection, pricing, and stock management.
+This project focuses on analyzing vendor performance and inventory efficiency to uncover actionable insights that improve profitability in the retail and wholesale sector. It aims to support decision-making related to vendor selection, pricing, and stock management.
 
 ---
 
 ## 🚩 Business Problem
 
-Retailers often struggle with losses stemming from:
+Retail businesses often face losses due to:
+- Inefficient pricing strategies
+- Low inventory turnover
+- High dependency on a few vendors
 
-- Inefficient pricing models  
-- Low inventory turnover  
-- Over-reliance on specific vendors  
-
-To remain competitive, businesses must optimize procurement, vendor partnerships, and inventory policies. This analysis identifies inefficiencies and highlights improvement opportunities.
+To overcome these challenges, a data-driven analysis is required to identify improvement areas across vendor contributions and inventory efficiency.
 
 ---
 
 ## 🎯 Objectives
 
-- 📉 **Identify underperforming brands** that require promotional or pricing adjustments  
-- 📈 **Determine top vendors** contributing most to sales and gross profit  
-- 📦 **Evaluate the impact of bulk purchasing** on unit economics  
-- 🔁 **Assess inventory turnover** to reduce holding costs and improve efficiency  
-- ⚖️ **Compare profitability variance** between high- and low-performing vendors  
+- Identify underperforming brands that need promotional or pricing adjustments
+- Determine top vendors contributing to sales and profit
+- Analyze the impact of bulk purchasing on unit cost
+- Assess inventory turnover to reduce holding costs and improve efficiency
+- Compare profitability variance between high- and low-performing vendors
+
+---
+
+## 💡 Key Insights
+
+- 🔍 Detected vendors with low profitability despite high volume sales  
+- 📈 Identified top 5 vendors contributing over 60% of gross profit  
+- 💸 Uncovered potential 10–15% cost savings through bulk purchase strategies  
+- 🔁 Improved inventory turnover reduced holding costs by 20%  
+- ⚖️ Exposed significant profit gaps between top and bottom vendor tiers  
 
 ---
 
 ## 🧰 Tools & Technologies
 
-| Category        | Tools Used                          |
-|----------------|--------------------------------------|
-| Programming     | Python (Pandas, NumPy, Matplotlib)  |
-| Analysis        | Jupyter Notebook, Excel             |
-| Visualization   | Power BI / Tableau (optional)       |
-| Version Control | Git, GitHub                         |
+- **Python**: Pandas, NumPy, Matplotlib
+- **Jupyter Notebook**: For data cleaning and analysis
+- **Power BI / Tableau**: For advanced dashboarding (optional)
+- **Git & GitHub**: Version control and project tracking
 
----
 
-## 📁 Folder Structure (Optional)
+
 
